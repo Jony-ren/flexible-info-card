@@ -1,0 +1,56 @@
+body {
+  background-color: #ccc;
+  font-family: "Open Sans";
+  margin: 3rem 0;
+}
+
+h2 {
+  text-align: center;
+  margin: 0 1.5rem;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+ul li img {
+  width: 5rem;
+  padding: .5rem 1rem .6rem 2rem;
+}
+
+li hgroup {
+  width: 16rem;
+}
+
+h3 {
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+}
+
+h4 {
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+}
+
+li p {
+  width: 24rem;
+  line-height: 1.5;
+}
+
+li a {
+  margin: 1.5rem;
+  width: 5rem;
+  color: #fff;
+  background-color: #444;
+  padding: .5rem 1rem;
+  text-decoration: none;
+}
